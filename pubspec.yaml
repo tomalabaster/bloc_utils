@@ -1,0 +1,12 @@
+name: bloc_utils
+description: A set of useful utility methods for use with bloc state management.
+version: 0.0.1
+author: Tom Alabaster
+homepage: https://github.com/tomalabaster/bloc_utils
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  bloc: ^6.1.1
+  meta: any

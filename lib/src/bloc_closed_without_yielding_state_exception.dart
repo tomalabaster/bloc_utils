@@ -1,0 +1,1 @@
+class BlocClosedWithoutYieldingStateException implements Exception {}
